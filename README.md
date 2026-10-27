@@ -16,6 +16,19 @@ This project investigates the optimization and chemical synthesis of Fatty Acid 
 * **Optimal Feedstocks:** Beef Tallow and Balanite kernel present the most viable commercial yields (92.8% and 39.65% oil content respectively).
 * **Blending Capabilities:** While raw variants exhibited deviations from parameters, engineered **B20 blends** successfully normalized properties within critical ASTM D6751 and EN 14214 thresholds.
 
+
 ## 📁 Repository Contents
 * `/data`: Structured datasets recording percentage yields and comparative physicochemical properties.
 * `/documents`: Academic manuscript files.
+
+
+
+## 🔬 Computational & AI Extensions (Thesis Core)
+To augment the empirical laboratory evaluations, this thesis integrates data-driven software tools:
+1. **Machine Learning Optimization:** Implementation of predictive regression models (Random Forest/ANN) to estimate transesterification yield efficiencies without iterative lab execution.
+2. **Programmatic Fuel Characterization:** Automated evaluation pipelines written in Python to test arbitrary B20 multi-blend scenarios against international ASTM D6751 & EN 14214 thresholds.
+
+## 📁 Repository Map
+* `/data`: Laboratory measurements for percentage yields and fuel characteristics.
+* `/computational_model`: Python execution scripts, Jupyter Notebooks, and predictive modeling configurations.
+* `/documents`: Academic manuscript files and the complete M.Sc. thesis text.
