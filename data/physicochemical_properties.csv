@@ -1,0 +1,10 @@
+Parameter,Avocado_B100,Watermelon_B100,Balanite_B100,Beef_Tallow_B100,ASTM_D6751_Limit
+Specific_Gravity,0.96,0.88,0.83,0.85,0.88
+Density_g_cm3,0.93,0.86,1.33,0.87,0.86-0.90
+Acid_Value_mgKOH_g,0.84,3.09,0.56,0.28,0.80_max
+Free_Fatty_Acid_mg_g,0.42,1.54,0.28,0.14,0.50_max
+Iodine_Value_gI2_100g,38.70,0.89,0.00,45.04,130_max
+Kinematic_Viscosity_mm2_s,5.02,3.70,5.42,4.92,1.9-6.0
+Flash_Point_C,172,102,172,154,130-170
+Cloud_Point_C,-5,-2,-13,-8,-12_to_-3
+Pour_Point_C,-6,-3,-12,-4,-15_to_10
